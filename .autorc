@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Yaloman",
+  "repo": "container-ulmn0ge",
+  "name": "Yaloman",
+  "email": "lg.tv.her.er.jeg@gmail.com",
+}
